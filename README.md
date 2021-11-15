@@ -3,7 +3,7 @@ Soy Ingeniero Comercial y estudiante del master "Big Data & Data Science" de la 
 
 Habilidades: SQL/ MongoDB/ Pyhton
 
-- 🔭 Estoy trabajando en Buscando Empleo 
+- 🔭 Estoy Buscando Empleo 
 - 🌱 Estoy aprendiendo Python, Tableau 
 - 📫 Cómo contactarme: mkneis@outlook.com 
 
