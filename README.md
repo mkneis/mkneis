@@ -12,4 +12,3 @@ Habilidades: SQL/ MongoDB/ Pyhton
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mkneis&theme=highcontrast&show_icons=true&count_private=true) 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mkneis&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkneis)
